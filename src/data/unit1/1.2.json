@@ -1,0 +1,515 @@
+{
+  "topic": "1.2",
+  "title": "Developments in Dar al-Islam",
+  "source": "reference/AMSCO AP World History.pdf",
+  "categories": [
+    {
+      "id": "state",
+      "name": "States & Government",
+      "questions": [
+        {
+          "id": "1.2-state-100",
+          "category": "States & Government",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What title did Seljuk rulers use for their political leadership?",
+          "answer": "Sultan.",
+          "explanation": "Seljuk power reduced the Abbasid caliph's role to chief Sunni religious authority.",
+          "source": {
+            "printedPages": [
+              15
+            ],
+            "pdfPages": [
+              79
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-state-200",
+          "category": "States & Government",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Who were the Mamluks before they established a ruling sultanate in Egypt?",
+          "answer": "Enslaved people employed as soldiers and later bureaucrats.",
+          "explanation": "Military and administrative service gave some Mamluks opportunities to rise and eventually seize political power.",
+          "source": {
+            "printedPages": [
+              15
+            ],
+            "pdfPages": [
+              79
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-state-300",
+          "category": "States & Government",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did a change in trade routes weaken Baghdad even before considering conquest?",
+          "answer": "Routes shifted north, reducing wealth and population and leaving less money to maintain canals.",
+          "explanation": "Deteriorating irrigation undermined food supplies and contributed to the city's decline.",
+          "source": {
+            "printedPages": [
+              16
+            ],
+            "pdfPages": [
+              80
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-state-400",
+          "category": "States & Government",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Distinguish the consequences of Seljuk expansion from those of the Mongol conquest for Abbasid rule.",
+          "answer": "Seljuk rulers reduced the caliph's political authority; the Mongols conquered the remaining Abbasid Empire in 1258.",
+          "explanation": "These were different stages in the erosion and eventual destruction of Abbasid political power.",
+          "source": {
+            "printedPages": [
+              15,
+              16
+            ],
+            "pdfPages": [
+              79,
+              80
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-state-500",
+          "category": "States & Government",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Evaluate the claim that political fragmentation ended the Islamic world's cultural unity. Use two forms of connection.",
+          "answer": "Political unity declined, but common shariah-based legal practices, trade, and learning centers continued to connect Islamic societies.",
+          "explanation": "Shared institutions and exchanges allowed a cultural region to endure across ethnically diverse states.",
+          "source": {
+            "printedPages": [
+              16
+            ],
+            "pdfPages": [
+              80
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "belief",
+      "name": "Belief & Practice",
+      "questions": [
+        {
+          "id": "1.2-belief-100",
+          "category": "Belief & Practice",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "Which Muslim mystics emphasized introspection and a personal search for spiritual truth?",
+          "answer": "Sufis.",
+          "explanation": "They stressed inward experience rather than relying only on intellectual study.",
+          "source": {
+            "printedPages": [
+              17
+            ],
+            "pdfPages": [
+              81
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-belief-200",
+          "category": "Belief & Practice",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Why could Sufi missionaries appeal to people attached to local religious customs?",
+          "answer": "They often accommodated local traditions and incorporated local religious elements.",
+          "explanation": "Adaptation made conversion less disruptive and helped extend Islam's reach.",
+          "source": {
+            "printedPages": [
+              17
+            ],
+            "pdfPages": [
+              81
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-belief-300",
+          "category": "Belief & Practice",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did Seljuk restrictions on Christian travel help trigger a military response from Europe?",
+          "answer": "Restrictions on access to holy sites encouraged Europeans to organize Crusades to reopen them.",
+          "explanation": "AMSCO contrasts Seljuk policies with earlier Abbasid permission for Christian travel.",
+          "source": {
+            "printedPages": [
+              15,
+              16
+            ],
+            "pdfPages": [
+              79,
+              80
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-belief-400",
+          "category": "Belief & Practice",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Does this evidence best support religious toleration or complete legal equality? Explain the distinction.",
+          "answer": "It supports toleration, since worship and property were protected, but not complete equality because a distinct tax obligation remained.",
+          "explanation": "Protection of another faith could coexist with legal distinctions between religious communities.",
+          "source": {
+            "printedPages": [
+              20
+            ],
+            "pdfPages": [
+              84
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "In al-Tabari's account of terms for Jerusalem, Christians receive protection for worship and property while agreeing to pay a tax required of non-Muslims. Paraphrase of the source reproduced by AMSCO.",
+            "attribution": "Paraphrased from AMSCO, pp. 20."
+          }
+        },
+        {
+          "id": "1.2-belief-500",
+          "category": "Belief & Practice",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Compare two ways Islam spread or connected communities without military conquest. Explain the mechanism in each.",
+          "answer": "Sufi adaptation attracted converts through familiar practices; merchants and scholars connected communities through exchange and shared learning.",
+          "explanation": "Religious change involved social and intellectual relationships as well as the expansion of states.",
+          "source": {
+            "printedPages": [
+              17,
+              19
+            ],
+            "pdfPages": [
+              81,
+              83
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "A World of Learning",
+      "questions": [
+        {
+          "id": "1.2-learning-100",
+          "category": "A World of Learning",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What famous Baghdad institution drew scholars from distant places?",
+          "answer": "The House of Wisdom.",
+          "explanation": "It made Baghdad an important center of learning within the wider Islamic world.",
+          "source": {
+            "printedPages": [
+              15
+            ],
+            "pdfPages": [
+              79
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-learning-200",
+          "category": "A World of Learning",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which scholar contributed to astronomy and helped lay the groundwork for trigonometry as a separate subject?",
+          "answer": "Nasir al-Din al-Tusi.",
+          "explanation": "His work included an advanced observatory and studies of triangles, illustrating original scientific contributions.",
+          "source": {
+            "printedPages": [
+              17
+            ],
+            "pdfPages": [
+              81
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-learning-300",
+          "category": "A World of Learning",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did translation into Arabic help preserve and transmit knowledge across regions?",
+          "answer": "Scholars preserved Greek works and shared Indian mathematics, making earlier learning available to new audiences.",
+          "explanation": "Translation turned inherited knowledge into material that could be studied and developed within connected scholarly communities.",
+          "source": {
+            "printedPages": [
+              16
+            ],
+            "pdfPages": [
+              80
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-learning-400",
+          "category": "A World of Learning",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Why does Ibn Khaldun's significance go beyond merely recording events?",
+          "answer": "He helped develop historiography and sociology, examining how history and society are studied.",
+          "explanation": "AMSCO presents him as important to methods of inquiry as well as to historical accounts.",
+          "source": {
+            "printedPages": [
+              17
+            ],
+            "pdfPages": [
+              81
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-learning-500",
+          "category": "A World of Learning",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Assess the claim: “Islamic scholars only preserved knowledge; they did not innovate.” Use one example on each side.",
+          "answer": "Translation preserved earlier Greek or Indian work, but al-Tusi's astronomical and mathematical research contributed new knowledge.",
+          "explanation": "Preservation and innovation were complementary features of Islamic scholarship; the evidence does not support the word “only.”",
+          "source": {
+            "printedPages": [
+              16,
+              17
+            ],
+            "pdfPages": [
+              80,
+              81
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "Society & Commerce",
+      "questions": [
+        {
+          "id": "1.2-society-100",
+          "category": "Society & Commerce",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "Which commercial occupation enjoyed considerable prestige in Islamic society?",
+          "answer": "Merchant.",
+          "explanation": "Muhammad and his first wife had been merchants, and fair dealing and charity supported the occupation's standing.",
+          "source": {
+            "printedPages": [
+              17
+            ],
+            "pdfPages": [
+              81
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-society-200",
+          "category": "Society & Commerce",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Name one property right available to free women under Islam in this account.",
+          "answer": "They could inherit property or retain ownership after marriage.",
+          "explanation": "Property rights offered a measure of legal independence even within a society containing gender restrictions.",
+          "source": {
+            "printedPages": [
+              18
+            ],
+            "pdfPages": [
+              82
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-society-300",
+          "category": "Society & Commerce",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did Egypt's Mamluk Sultanate profit from its position between regions?",
+          "answer": "It facilitated cotton and sugar trade between the Islamic world and Europe.",
+          "explanation": "Commercial connections provided resources that helped sustain the state.",
+          "source": {
+            "printedPages": [
+              15
+            ],
+            "pdfPages": [
+              79
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-society-400",
+          "category": "Society & Commerce",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "What limitation should a historian recognize when studying women's views from the written record described here?",
+          "answer": "A mostly male-authored record may underrepresent how women understood their own lives.",
+          "explanation": "Legal rules and male descriptions alone cannot fully recover women's experiences or perspectives.",
+          "source": {
+            "printedPages": [
+              18
+            ],
+            "pdfPages": [
+              82
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "AMSCO notes that most surviving written records from before 1450 were produced by men, even though women could study and read.",
+            "attribution": "Paraphrased from AMSCO, pp. 18."
+          }
+        },
+        {
+          "id": "1.2-society-500",
+          "category": "Society & Commerce",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Construct a qualified argument about women's status using one right and one restriction in AMSCO's account.",
+          "answer": "Women had rights such as property ownership or conditional divorce, but unequal court testimony and restrictions on public life limited equality.",
+          "explanation": "A balanced interpretation distinguishes meaningful legal protections from equal social and legal power.",
+          "source": {
+            "printedPages": [
+              18
+            ],
+            "pdfPages": [
+              82
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "andalus",
+      "name": "Al-Andalus & Exchange",
+      "questions": [
+        {
+          "id": "1.2-andalus-100",
+          "category": "Al-Andalus & Exchange",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What name is used for the Islamic state in Spain?",
+          "answer": "Al-Andalus.",
+          "explanation": "It became an important zone of contact among Muslim, Christian, and Jewish communities.",
+          "source": {
+            "printedPages": [
+              19
+            ],
+            "pdfPages": [
+              83
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-andalus-200",
+          "category": "Al-Andalus & Exchange",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which Spanish city served as an Umayyad capital and major center of learning?",
+          "answer": "Córdoba.",
+          "explanation": "Its large library and scholarly life exemplified the importance of cities to cultural exchange.",
+          "source": {
+            "printedPages": [
+              18,
+              19
+            ],
+            "pdfPages": [
+              82,
+              83
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-andalus-300",
+          "category": "Al-Andalus & Exchange",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "Why were dhows particularly useful for the commercial exchanges described in this topic?",
+          "answer": "Their long, thin hulls were well suited to carrying goods.",
+          "explanation": "Ships helped move Asian products toward Spain and the rest of Europe, connecting distant markets.",
+          "source": {
+            "printedPages": [
+              19
+            ],
+            "pdfPages": [
+              83
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.2-andalus-400",
+          "category": "Al-Andalus & Exchange",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "What does this chain of scholarship show about the relationship between religious boundaries and intellectual exchange?",
+          "answer": "Ideas crossed religious boundaries and were adapted by scholars of different faiths.",
+          "explanation": "Shared engagement with Aristotle connected Islamic, Jewish, and Christian philosophy.",
+          "source": {
+            "printedPages": [
+              19
+            ],
+            "pdfPages": [
+              83
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Ibn Rushd's interpretations of Aristotle influenced the Jewish thinker Maimonides, whose work in turn influenced Christian philosophers such as Thomas Aquinas.",
+            "attribution": "Paraphrased from AMSCO, pp. 19."
+          }
+        },
+        {
+          "id": "1.2-andalus-500",
+          "category": "Al-Andalus & Exchange",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Explain why calling later European intellectual change a purely isolated European achievement would be incomplete. Use two knowledge transfers.",
+          "answer": "Greek works preserved in Arabic and Chinese papermaking transmitted through Islamic societies helped Europeans recover and spread ideas.",
+          "explanation": "AMSCO links these exchanges, alongside Islamic innovations and Indian knowledge, to the groundwork for later European intellectual developments.",
+          "source": {
+            "printedPages": [
+              16,
+              19
+            ],
+            "pdfPages": [
+              80,
+              83
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    }
+  ],
+  "subtitle": "New states, connected cultures, and a world of learning."
+}

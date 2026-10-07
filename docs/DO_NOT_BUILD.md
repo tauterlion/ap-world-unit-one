@@ -1,0 +1,21 @@
+# Do Not Build in V1
+
+- Unit 2
+- Topic 1.7
+- Final Jeopardy
+- Daily Doubles
+- multiplayer / matchmaking
+- accounts / authentication
+- leaderboards / ranks
+- timers / buzzers
+- voice recognition
+- typed-answer grading
+- AI judging
+- multiple-choice gameplay
+- negative scoring
+- progression locks
+- achievements / XP / streak pressure / lives
+- backend/database infrastructure
+- teacher dashboards
+- content-editor dashboards
+- official Jeopardy branding, music, or ripped sound effects

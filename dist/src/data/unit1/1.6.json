@@ -1,0 +1,522 @@
+{
+  "topic": "1.6",
+  "title": "Developments in Europe",
+  "source": "reference/AMSCO AP World History.pdf",
+  "categories": [
+    {
+      "id": "state",
+      "name": "States & Government",
+      "questions": [
+        {
+          "id": "1.6-state-100",
+          "category": "States & Government",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What system exchanged land for loyalty and service in decentralized medieval Europe?",
+          "answer": "Feudalism.",
+          "explanation": "Obligations among monarchs, lords, knights, and peasants provided protection where central authority was weak.",
+          "source": {
+            "printedPages": [
+              53
+            ],
+            "pdfPages": [
+              117
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-state-200",
+          "category": "States & Government",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which 1215 agreement required England's king to recognize certain rights of nobles?",
+          "answer": "Magna Carta.",
+          "explanation": "It limited royal action but did not extend those rights equally to the general population.",
+          "source": {
+            "printedPages": [
+              56
+            ],
+            "pdfPages": [
+              120
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-state-300",
+          "category": "States & Government",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did employing a royal bureaucracy and military strengthen monarchs relative to feudal lords?",
+          "answer": "Officials and soldiers worked directly for the monarch, reducing dependence on powerful local lords.",
+          "explanation": "Central institutions helped rulers consolidate territories under their own authority.",
+          "source": {
+            "printedPages": [
+              54,
+              55
+            ],
+            "pdfPages": [
+              118,
+              119
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-state-400",
+          "category": "States & Government",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Compare the influence of representative bodies in France and England as described by AMSCO.",
+          "answer": "France's Estates-General had little power, while England's parliamentary bodies eventually became stronger.",
+          "explanation": "Similar-looking assemblies did not have identical political influence; the French upper estates' exemption from regular taxation limited their stake in supporting government.",
+          "source": {
+            "printedPages": [
+              55,
+              56
+            ],
+            "pdfPages": [
+              119,
+              120
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-state-500",
+          "category": "States & Government",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Evaluate the claim that the Hundred Years' War mattered only as a contest over territory. Give two broader consequences.",
+          "answer": "It strengthened English and French identities and demonstrated the spreading use of gunpowder weapons.",
+          "explanation": "Warfare could transform collective identity and military practice as well as political boundaries.",
+          "source": {
+            "printedPages": [
+              56
+            ],
+            "pdfPages": [
+              120
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "land",
+      "name": "Land, Labor & Change",
+      "questions": [
+        {
+          "id": "1.6-land-100",
+          "category": "Land, Labor & Change",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What were the largely self-sufficient estates at the center of medieval rural economic life called?",
+          "answer": "Manors.",
+          "explanation": "They combined farming, services, and defense, limiting the need for exchange beyond the estate.",
+          "source": {
+            "printedPages": [
+              54
+            ],
+            "pdfPages": [
+              118
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-land-200",
+          "category": "Land, Labor & Change",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "How did serfs differ from freely mobile peasants?",
+          "answer": "Serfs were tied to the land and needed their lord's permission for travel and marriage.",
+          "explanation": "Their labor obligations and inherited status limited personal freedom, though AMSCO distinguishes serfdom from enslavement.",
+          "source": {
+            "printedPages": [
+              54
+            ],
+            "pdfPages": [
+              118
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-land-300",
+          "category": "Land, Labor & Change",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did the three-field system help increase agricultural productivity?",
+          "answer": "Rotation combined food crops, soil-enriching legumes, and a fallow field.",
+          "explanation": "Maintaining fertility and using land systematically helped support more food production and population growth.",
+          "source": {
+            "printedPages": [
+              54
+            ],
+            "pdfPages": [
+              118
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-land-400",
+          "category": "Land, Labor & Change",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain the unexpected change in bargaining power created by this disaster.",
+          "answer": "Fewer available workers gave surviving serfs more leverage with lords who needed labor.",
+          "explanation": "Labor scarcity altered relationships within an unequal social order even though the plague itself was devastating.",
+          "source": {
+            "printedPages": [
+              59
+            ],
+            "pdfPages": [
+              123
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "The Black Death killed a large share of Europe's population while manors continued to need workers.",
+            "attribution": "Paraphrased from AMSCO, pp. 59."
+          }
+        },
+        {
+          "id": "1.6-land-500",
+          "category": "Land, Labor & Change",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Trace a causal chain from colder temperatures to social unrest, and explain why blaming minorities was unjustified.",
+          "answer": "Cooling reduced agricultural output and trade, contributing to disease and unemployment; minorities were scapegoated for conditions they did not cause.",
+          "explanation": "AMSCO links the Little Ice Age with economic stress and discrimination. A causal explanation must distinguish underlying conditions from prejudiced accusations.",
+          "source": {
+            "printedPages": [
+              59
+            ],
+            "pdfPages": [
+              123
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "church",
+      "name": "Church & Belief",
+      "questions": [
+        {
+          "id": "1.6-church-100",
+          "category": "Church & Belief",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What split divided European Christianity into Roman Catholic and Orthodox branches in 1054?",
+          "answer": "The Great Schism.",
+          "explanation": "The branches developed strongholds in different parts of Europe.",
+          "source": {
+            "printedPages": [
+              56
+            ],
+            "pdfPages": [
+              120
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-church-200",
+          "category": "Church & Belief",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What central issue was contested in the lay investiture controversy?",
+          "answer": "Whether secular rulers could invest bishops with symbols of their office rather than leaving that authority to the Church.",
+          "explanation": "The dispute concerned the boundary between political and religious power.",
+          "source": {
+            "printedPages": [
+              55
+            ],
+            "pdfPages": [
+              119
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-church-300",
+          "category": "Church & Belief",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did the Church help create unity in politically divided Europe?",
+          "answer": "It provided a shared faith, clerical hierarchy, and centers of literacy and education across many states.",
+          "explanation": "Religious institutions connected communities even where political authority remained fragmented.",
+          "source": {
+            "printedPages": [
+              57
+            ],
+            "pdfPages": [
+              121
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-church-400",
+          "category": "Church & Belief",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain why entering a religious order could expand a medieval woman's opportunities.",
+          "answer": "Convents offered roles in administration and leadership that were less available elsewhere.",
+          "explanation": "Religious institutions could reproduce hierarchy while also creating particular spaces for women's authority.",
+          "source": {
+            "printedPages": [
+              57,
+              60
+            ],
+            "pdfPages": [
+              121,
+              124
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-church-500",
+          "category": "Church & Belief",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Use this evidence to explain why separating religious power from political power would misrepresent medieval Europe.",
+          "answer": "Bishops could use control of worship to pressure secular lords through their subjects.",
+          "explanation": "Authority over religious life had direct political consequences; institutions and loyalties overlapped.",
+          "source": {
+            "printedPages": [
+              57
+            ],
+            "pdfPages": [
+              121
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "A bishop could suspend religious services when a lord resisted the Church. Angered peasants might then press the lord to yield.",
+            "attribution": "Paraphrased from AMSCO, pp. 57."
+          }
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "name": "Crusades & Contact",
+      "questions": [
+        {
+          "id": "1.6-contact-100",
+          "category": "Crusades & Contact",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What name is given to the European military campaigns seeking control of the Holy Land?",
+          "answer": "The Crusades.",
+          "explanation": "Religious objectives combined with economic, social, and political pressures.",
+          "source": {
+            "printedPages": [
+              57,
+              58
+            ],
+            "pdfPages": [
+              121,
+              122
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-contact-200",
+          "category": "Crusades & Contact",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What inheritance rule left many younger noble sons without the family estate?",
+          "answer": "Primogeniture.",
+          "explanation": "Inheritance by the eldest son contributed to the land-seeking ambitions of younger sons.",
+          "source": {
+            "printedPages": [
+              57
+            ],
+            "pdfPages": [
+              121
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-contact-300",
+          "category": "Crusades & Contact",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did the Crusades affect European demand for Middle Eastern goods?",
+          "answer": "Contact exposed Europeans to goods and living standards that increased demand and exchange.",
+          "explanation": "Military conflict could unintentionally deepen commercial and cultural connections.",
+          "source": {
+            "printedPages": [
+              58
+            ],
+            "pdfPages": [
+              122
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-contact-400",
+          "category": "Crusades & Contact",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "What does this evidence reveal about the relationship between the Crusades' stated aims and their actual conduct?",
+          "answer": "Commercial interests and debt could redirect a religious campaign toward attacks on Christian cities.",
+          "explanation": "Venice's interests as a trading power helped shape the Fourth Crusade's course.",
+          "source": {
+            "printedPages": [
+              58
+            ],
+            "pdfPages": [
+              122
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Crusaders owed Venice for transport. Venetians redirected them toward rival cities, including Constantinople, and the expedition never reached the Holy Land.",
+            "attribution": "Paraphrased from AMSCO, pp. 58."
+          }
+        },
+        {
+          "id": "1.6-contact-500",
+          "category": "Crusades & Contact",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Develop a multicausal explanation for the Crusades that includes more than religious motivation.",
+          "answer": "Religious efforts to reclaim holy sites combined with younger nobles' desire for land, merchants' interest in routes, and Church political ambitions.",
+          "explanation": "A stronger argument explains how these motives reinforced one another instead of assuming all participants shared a single goal.",
+          "source": {
+            "printedPages": [
+              57,
+              58
+            ],
+            "pdfPages": [
+              121,
+              122
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "name": "Cities & New Ideas",
+      "questions": [
+        {
+          "id": "1.6-culture-100",
+          "category": "Cities & New Ideas",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What name described the growing middle class of merchants, shopkeepers, and craftspeople?",
+          "answer": "The bourgeoisie, or burghers.",
+          "explanation": "Commercial success became a source of status alongside inherited rank and religious office.",
+          "source": {
+            "printedPages": [
+              59
+            ],
+            "pdfPages": [
+              123
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-culture-200",
+          "category": "Cities & New Ideas",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What intellectual outlook emphasized individuals and human concerns during the Renaissance?",
+          "answer": "Humanism.",
+          "explanation": "It encouraged educational reform and secular writing while developing within a society still shaped by religion.",
+          "source": {
+            "printedPages": [
+              60
+            ],
+            "pdfPages": [
+              124
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-culture-300",
+          "category": "Cities & New Ideas",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did Gutenberg's printing press help accelerate the spread of ideas?",
+          "answer": "It made manuscripts reproducible in larger numbers at more affordable costs.",
+          "explanation": "Wider availability of texts supported literacy and intellectual exchange.",
+          "source": {
+            "printedPages": [
+              60
+            ],
+            "pdfPages": [
+              124
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.6-culture-400",
+          "category": "Cities & New Ideas",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "What shared literary choice in these examples matters for cultural change, and why?",
+          "answer": "Both used vernacular languages, making regional speech a vehicle for substantial literature beyond Latin.",
+          "explanation": "Vernacular writing reflected cultural independence and supported stronger regional identities.",
+          "source": {
+            "printedPages": [
+              60,
+              61
+            ],
+            "pdfPages": [
+              124,
+              125
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Dante wrote The Divine Comedy in Italian; Chaucer used Middle English for The Canterbury Tales, even though Latin remained important in learned writing.",
+            "attribution": "Paraphrased from AMSCO, pp. 60,61."
+          }
+        },
+        {
+          "id": "1.6-culture-500",
+          "category": "Cities & New Ideas",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Explain how economic change could support cultural change in the Renaissance. Use a chain with at least two links.",
+          "answer": "Agricultural surplus and trade supported towns and a wealthier middle class, whose patronage financed artists and scholars.",
+          "explanation": "Cultural production depended partly on resources and audiences created by wider economic and social transformations.",
+          "source": {
+            "printedPages": [
+              59,
+              60
+            ],
+            "pdfPages": [
+              123,
+              124
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    }
+  ],
+  "subtitle": "Feudal ties, religious power, and a changing social order."
+}

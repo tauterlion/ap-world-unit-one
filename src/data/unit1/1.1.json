@@ -1,0 +1,529 @@
+{
+  "topic": "1.1",
+  "title": "Developments in East Asia",
+  "source": "reference/AMSCO AP World History.pdf",
+  "categories": [
+    {
+      "id": "state",
+      "name": "States & Government",
+      "questions": [
+        {
+          "id": "1.1-state-100",
+          "category": "States & Government",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "Which dynasty replaced the Tang and presided over the prosperous Chinese society emphasized in this topic?",
+          "answer": "The Song Dynasty.",
+          "explanation": "Its rule combined artistic and intellectual achievements with an expanding government and economy.",
+          "source": {
+            "printedPages": [
+              3
+            ],
+            "pdfPages": [
+              67
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-state-200",
+          "category": "States & Government",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What did success on China's civil service examinations qualify a man to enter, and what learning did the exams test?",
+          "answer": "The imperial bureaucracy; knowledge of Confucian texts.",
+          "explanation": "Appointed officials implemented imperial policy. Examination performance offered a route into government based on demonstrated learning.",
+          "source": {
+            "printedPages": [
+              3
+            ],
+            "pdfPages": [
+              67
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-state-300",
+          "category": "States & Government",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "Why is “meritocracy” an incomplete description of access to Song government jobs?",
+          "answer": "Examinations rewarded merit, but poor men remained greatly underrepresented.",
+          "explanation": "Expanded educational opportunities increased mobility without making access equal across economic classes.",
+          "source": {
+            "printedPages": [
+              3,
+              4
+            ],
+            "pdfPages": [
+              67,
+              68
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-state-400",
+          "category": "States & Government",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain how the same institutional expansion could first strengthen Song rule and later weaken it.",
+          "answer": "More officials helped carry out imperial policies, but their growing numbers and high salaries drained state wealth.",
+          "explanation": "A larger administration increased governing capacity while also creating a costly financial burden.",
+          "source": {
+            "printedPages": [
+              3,
+              4
+            ],
+            "pdfPages": [
+              67,
+              68
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-state-500",
+          "category": "States & Government",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Make a continuity-and-change argument about Song government relative to earlier Chinese dynasties. Support both parts.",
+          "answer": "The bureaucracy continued an older institution, while broader educational access and examination opportunities increased potential mobility.",
+          "explanation": "AMSCO treats bureaucratic government as a long continuity and expanded access under the Song as a significant modification, rather than an entirely new system.",
+          "source": {
+            "printedPages": [
+              3,
+              14
+            ],
+            "pdfPages": [
+              67,
+              78
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Economy & Innovation",
+      "questions": [
+        {
+          "id": "1.1-economy-100",
+          "category": "Economy & Innovation",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "Which fast-ripening, drought-resistant rice introduced from present-day Vietnam increased Chinese agricultural output?",
+          "answer": "Champa rice.",
+          "explanation": "It made more land suitable for rice cultivation and helped allow two harvests annually in some areas.",
+          "source": {
+            "printedPages": [
+              4,
+              5
+            ],
+            "pdfPages": [
+              68,
+              69
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-economy-200",
+          "category": "Economy & Innovation",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What major internal transportation system helped connect China's markets inexpensively?",
+          "answer": "The Grand Canal.",
+          "explanation": "The canal supported internal trade by moving goods efficiently between producing areas and markets.",
+          "source": {
+            "printedPages": [
+              4,
+              5
+            ],
+            "pdfPages": [
+              68,
+              69
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-economy-300",
+          "category": "Economy & Innovation",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did improvements in metal production reinforce agricultural growth?",
+          "answer": "Steel strengthened farm equipment, helping farmers increase food production.",
+          "explanation": "Manufacturing and farming supported each other; technological change was not confined to urban crafts.",
+          "source": {
+            "printedPages": [
+              5
+            ],
+            "pdfPages": [
+              69
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-economy-400",
+          "category": "Economy & Innovation",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "What distinguishes the production described here from later factory industrialization?",
+          "answer": "It is dispersed, home- or community-based production using simple equipment, rather than large factories with complex machines.",
+          "explanation": "AMSCO calls this proto-industrialization: growing production for markets before later factory-based industry.",
+          "source": {
+            "printedPages": [
+              5
+            ],
+            "pdfPages": [
+              69
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Rural artisans produce goods in homes and small community workshops. Their products reach buyers through expanding trade networks.",
+            "attribution": "Paraphrased from AMSCO, pp. 5."
+          }
+        },
+        {
+          "id": "1.1-economy-500",
+          "category": "Economy & Innovation",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Explain how both public policy and navigation technology supported a more commercial Song economy. Give one mechanism for each.",
+          "answer": "Paid public works increased money in circulation; compasses, navigation charts, or larger cargo ships expanded maritime trade.",
+          "explanation": "Government spending encouraged exchange, while navigation and transport improvements helped producers reach more distant markets.",
+          "source": {
+            "printedPages": [
+              5,
+              6
+            ],
+            "pdfPages": [
+              69,
+              70
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "Society & Culture",
+      "questions": [
+        {
+          "id": "1.1-society-100",
+          "category": "Society & Culture",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What educated social class became especially influential as China's bureaucracy expanded?",
+          "answer": "The scholar gentry.",
+          "explanation": "Their education in Confucian philosophy connected social prestige with service in government.",
+          "source": {
+            "printedPages": [
+              6
+            ],
+            "pdfPages": [
+              70
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-society-200",
+          "category": "Society & Culture",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which practice among elite girls limited women's mobility while signaling status?",
+          "answer": "Foot binding.",
+          "explanation": "It physically restricted participation in public life and reflected increasingly patriarchal expectations.",
+          "source": {
+            "printedPages": [
+              6,
+              7
+            ],
+            "pdfPages": [
+              70,
+              71
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-society-300",
+          "category": "Society & Culture",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "Why could merchants gain wealth without holding high status in China's Confucian social ranking?",
+          "answer": "Confucian values favored people who grew or made things; merchants were seen as exchanging goods rather than creating them.",
+          "explanation": "Economic importance and social prestige did not necessarily rise together in commercializing China.",
+          "source": {
+            "printedPages": [
+              6
+            ],
+            "pdfPages": [
+              70
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-society-400",
+          "category": "Society & Culture",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain one educational effect and one limit of the spread of printing.",
+          "answer": "Books became more available to educated elites, but most peasants remained illiterate.",
+          "explanation": "Wider circulation expanded learning without producing universal literacy. Agricultural booklets also spread practical knowledge.",
+          "source": {
+            "printedPages": [
+              7,
+              8
+            ],
+            "pdfPages": [
+              71,
+              72
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-society-500",
+          "category": "Society & Culture",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Evaluate the claim: “Song economic growth made society equally open to everyone.” Use evidence from two social groups.",
+          "answer": "The claim is too broad: educated men gained opportunities, but elite women faced mobility restrictions and poor people remained disadvantaged.",
+          "explanation": "Commercial and educational growth coexisted with hierarchy. A strong response distinguishes opportunities for some groups from equality for society as a whole.",
+          "source": {
+            "printedPages": [
+              5,
+              6,
+              7
+            ],
+            "pdfPages": [
+              69,
+              70,
+              71
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "belief",
+      "name": "Belief Systems",
+      "questions": [
+        {
+          "id": "1.1-belief-100",
+          "category": "Belief Systems",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "Which religion reached China from India along the Silk Roads?",
+          "answer": "Buddhism.",
+          "explanation": "Its spread connected Chinese religious life to wider Asian exchanges and led to adaptations within China.",
+          "source": {
+            "printedPages": [
+              8
+            ],
+            "pdfPages": [
+              72
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-belief-200",
+          "category": "Belief Systems",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which form of Buddhism emphasized spiritual growth for all beings and service, becoming strongest in China and Korea?",
+          "answer": "Mahayana Buddhism.",
+          "explanation": "AMSCO distinguishes this emphasis from Theravada's stress on individual spiritual discipline and Tibetan Buddhism's chanting.",
+          "source": {
+            "printedPages": [
+              8
+            ],
+            "pdfPages": [
+              72
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-belief-300",
+          "category": "Belief Systems",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did relating Buddhist teachings to Daoist ideas help Buddhism spread in China?",
+          "answer": "It made unfamiliar teachings more understandable and compatible with existing beliefs.",
+          "explanation": "Their blending helped produce Chan, or Zen, Buddhism, a syncretic tradition emphasizing experience and meditation.",
+          "source": {
+            "printedPages": [
+              8
+            ],
+            "pdfPages": [
+              72
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-belief-400",
+          "category": "Belief Systems",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain how an expectation within the family could help stabilize imperial government.",
+          "answer": "Respect and subordination to the male family head reinforced respect for the ruler.",
+          "explanation": "Filial piety linked household hierarchy to political obedience, providing a cultural support for Song rule.",
+          "source": {
+            "printedPages": [
+              9
+            ],
+            "pdfPages": [
+              73
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-belief-500",
+          "category": "Belief Systems",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Use this evidence to challenge the claim that maintaining a native tradition requires rejecting all outside ideas.",
+          "answer": "Confucian traditions remained influential while absorbing Buddhist and Daoist ideas, showing continuity through adaptation.",
+          "explanation": "Neo-Confucianism combined rational thought with ideas from other traditions and emphasized ethics. Cultural continuity could therefore involve intellectual change.",
+          "source": {
+            "printedPages": [
+              8,
+              9
+            ],
+            "pdfPages": [
+              72,
+              73
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Song rulers favored native traditions. At the same time, Confucian thinkers encountered widely available Buddhist writings and incorporated abstract ideas from Buddhism and Daoism.",
+            "attribution": "Paraphrased from AMSCO, pp. 8,9."
+          }
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "name": "China & Its Neighbors",
+      "questions": [
+        {
+          "id": "1.1-neighbors-100",
+          "category": "China & Its Neighbors",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What term describes the assimilation of Chinese traditions and practices by neighboring societies?",
+          "answer": "Sinification.",
+          "explanation": "Neighboring societies borrowed Chinese practices while also attempting to preserve distinctive cultures.",
+          "source": {
+            "printedPages": [
+              9
+            ],
+            "pdfPages": [
+              73
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-neighbors-200",
+          "category": "China & Its Neighbors",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which Japanese military ruler held power while the emperor remained in place with little practical authority?",
+          "answer": "The shogun.",
+          "explanation": "Japanese rule involved military leadership and powerful regional landowners rather than China's large civilian bureaucracy.",
+          "source": {
+            "printedPages": [
+              9,
+              10
+            ],
+            "pdfPages": [
+              73,
+              74
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-neighbors-300",
+          "category": "China & Its Neighbors",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did Japan's geography affect its ability to choose which Chinese influences to adopt?",
+          "answer": "Separation by sea gave Japan greater control over contact than neighbors sharing a land boundary with China.",
+          "explanation": "Geography helped make borrowing more selective, even though Chinese religion, printing, and literary traditions remained influential.",
+          "source": {
+            "printedPages": [
+              9
+            ],
+            "pdfPages": [
+              73
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-neighbors-400",
+          "category": "China & Its Neighbors",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Compare how elites shaped access to government in Korea and China.",
+          "answer": "Korea's powerful aristocracy excluded peasants from its examination system; China's system offered more scope for upward mobility.",
+          "explanation": "Both used examinations, but local social power changed the institution's effects. Borrowing a practice did not guarantee identical outcomes.",
+          "source": {
+            "printedPages": [
+              10,
+              11
+            ],
+            "pdfPages": [
+              74,
+              75
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.1-neighbors-500",
+          "category": "China & Its Neighbors",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "What argument about the limits of Chinese cultural influence is best supported by this evidence? Explain both borrowing and resistance.",
+          "answer": "Vietnam selectively adopted Chinese forms while preserving village loyalties and resisting aspects of Chinese social hierarchy.",
+          "explanation": "Its officials could oppose central authority, and women rejected practices such as foot binding. Sinification therefore did not erase local institutions and values.",
+          "source": {
+            "printedPages": [
+              11
+            ],
+            "pdfPages": [
+              75
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Vietnamese elites adapted Chinese writing and administrative practices. Scholar-officials often remained loyal to village peasants, and women resisted restrictions associated with Chinese rule.",
+            "attribution": "Paraphrased from AMSCO, pp. 11."
+          }
+        }
+      ]
+    }
+  ],
+  "subtitle": "Scholar-officials, new ideas, and a changing economy."
+}

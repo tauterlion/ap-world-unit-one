@@ -1,0 +1,9 @@
+{
+  "id": "1.1-example-300",
+  "category": "Government & Society",
+  "value": 300,
+  "prompt": "Question text goes here.",
+  "answer": "The expected answer goes here.",
+  "explanation": "A short 1–3 sentence study explanation goes here.",
+  "stimulus": null
+}

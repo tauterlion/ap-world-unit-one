@@ -1,0 +1,519 @@
+{
+  "topic": "1.4",
+  "title": "Developments in the Americas",
+  "source": "reference/AMSCO AP World History.pdf",
+  "categories": [
+    {
+      "id": "north",
+      "name": "North American Worlds",
+      "questions": [
+        {
+          "id": "1.4-north-100",
+          "category": "North American Worlds",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "Which major Mississippian site in present-day Illinois is associated with enormous earthen mounds?",
+          "answer": "Cahokia.",
+          "explanation": "Monumental mound-building demonstrates the scale and organization of Mississippian society.",
+          "source": {
+            "printedPages": [
+              33
+            ],
+            "pdfPages": [
+              97
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-north-200",
+          "category": "North American Worlds",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What does it mean that Mississippian society was matrilineal?",
+          "answer": "Social standing and descent were traced through the woman's side of the family.",
+          "explanation": "A Great Sun's title could pass to his sister's son rather than his own son; this did not mean the society lacked hierarchy.",
+          "source": {
+            "printedPages": [
+              33
+            ],
+            "pdfPages": [
+              97
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-north-300",
+          "category": "North American Worlds",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did a dry climate and scarce wood shape Chaco and Mesa Verde construction?",
+          "answer": "People relied on stone, clay, or sandstone and developed ways to manage limited water.",
+          "explanation": "Housing materials and water systems reflected adaptation to local environmental constraints.",
+          "source": {
+            "printedPages": [
+              34
+            ],
+            "pdfPages": [
+              98
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-north-400",
+          "category": "North American Worlds",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain why a drying climate could threaten these settlements even if their buildings remained intact.",
+          "answer": "Reduced water availability could undermine agriculture and the food supply needed to sustain settlement.",
+          "explanation": "AMSCO associates their late-13th-century decline with increasing dryness; survival depended on more than durable construction.",
+          "source": {
+            "printedPages": [
+              34
+            ],
+            "pdfPages": [
+              98
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-north-500",
+          "category": "North American Worlds",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Assess the claim that shared monumental building proves all North American societies developed in the same way.",
+          "answer": "The claim overgeneralizes: Mississippian mound-building and southwestern stone or cliff housing responded to different settings and social needs.",
+          "explanation": "Comparison reveals complexity across societies without erasing regional differences in environment, building materials, and organization.",
+          "source": {
+            "printedPages": [
+              33,
+              34
+            ],
+            "pdfPages": [
+              97,
+              98
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "maya",
+      "name": "Maya Worlds",
+      "questions": [
+        {
+          "id": "1.4-maya-100",
+          "category": "Maya Worlds",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What political unit, rather than a single unified empire, was the main form of Maya government?",
+          "answer": "The city-state.",
+          "explanation": "Each city and its surrounding territory had its own ruler, though stronger cities could dominate neighbors.",
+          "source": {
+            "printedPages": [
+              34
+            ],
+            "pdfPages": [
+              98
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-maya-200",
+          "category": "Maya Worlds",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which mathematical concept did the Maya incorporate into their number system?",
+          "answer": "Zero.",
+          "explanation": "This was one of several intellectual achievements, alongside writing and astronomical observation.",
+          "source": {
+            "printedPages": [
+              35
+            ],
+            "pdfPages": [
+              99
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-maya-300",
+          "category": "Maya Worlds",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did religious responsibilities encourage Maya astronomical study?",
+          "answer": "Priests needed accurate calendars to schedule ceremonies and help determine when to wage war.",
+          "explanation": "Religious purposes gave practical importance to careful observation of the sky.",
+          "source": {
+            "printedPages": [
+              35
+            ],
+            "pdfPages": [
+              99
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-maya-400",
+          "category": "Maya Worlds",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain how a Maya king's claim of divine ancestry supported political authority.",
+          "answer": "It presented the ruler's power as grounded in sacred descent.",
+          "explanation": "Religion helped legitimate a ruler who directed scribes and priests in administering the state.",
+          "source": {
+            "printedPages": [
+              34
+            ],
+            "pdfPages": [
+              98
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-maya-500",
+          "category": "Maya Worlds",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "What does this evidence suggest about the purposes of warfare beyond territorial expansion? Connect two aims.",
+          "answer": "Warfare could extract economic resources and obtain captives for religious ceremonies.",
+          "explanation": "Tribute and ritual needs help explain conflict even without an objective of directly annexing every defeated territory.",
+          "source": {
+            "printedPages": [
+              34,
+              35
+            ],
+            "pdfPages": [
+              98,
+              99
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Maya city-states fought frequently, yet often sought tribute and captives rather than permanent control of additional land.",
+            "attribution": "Paraphrased from AMSCO, pp. 34,35."
+          }
+        }
+      ]
+    },
+    {
+      "id": "aztec",
+      "name": "The Aztec World",
+      "questions": [
+        {
+          "id": "1.4-aztec-100",
+          "category": "The Aztec World",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What was the island capital of the Aztec Empire?",
+          "answer": "Tenochtitlán.",
+          "explanation": "Its lake setting offered defense and shaped the city's engineering and food-production needs.",
+          "source": {
+            "printedPages": [
+              35
+            ],
+            "pdfPages": [
+              99
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-aztec-200",
+          "category": "The Aztec World",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What agricultural structures increased growing space on Lake Texcoco?",
+          "answer": "Chinampas.",
+          "explanation": "These cultivated plots expanded food production in a watery environment.",
+          "source": {
+            "printedPages": [
+              35
+            ],
+            "pdfPages": [
+              99
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-aztec-300",
+          "category": "The Aztec World",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did retaining conquered local rulers help the Aztecs administer their empire?",
+          "answer": "Local rulers collected tribute, allowing dominance without complete direct administration.",
+          "explanation": "Provincial officials and stationed warriors reinforced a system that relied partly on existing local authorities.",
+          "source": {
+            "printedPages": [
+              36
+            ],
+            "pdfPages": [
+              100
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-aztec-400",
+          "category": "The Aztec World",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain how increasing tribute demands could reshape Aztec household relationships.",
+          "answer": "Greater demand for cloth increased the importance of women's weaving and could lead men to take additional wives.",
+          "explanation": "State demands affected domestic labor and family arrangements, linking imperial extraction to everyday life.",
+          "source": {
+            "printedPages": [
+              37
+            ],
+            "pdfPages": [
+              101
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-aztec-500",
+          "category": "The Aztec World",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Evaluate the long-term political tradeoff of an empire built on demanding tribute and sacrifice victims.",
+          "answer": "Extraction supplied resources and displayed power but generated resentment that weakened loyalty.",
+          "explanation": "Expansion could strengthen rulers in the short term while making subject communities more willing to rebel.",
+          "source": {
+            "printedPages": [
+              36,
+              37
+            ],
+            "pdfPages": [
+              100,
+              101
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "inca",
+      "name": "Governing the Andes",
+      "questions": [
+        {
+          "id": "1.4-inca-100",
+          "category": "Governing the Andes",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "Which Inca leader began the conquests that transformed neighboring tribes into an empire in 1438?",
+          "answer": "Pachacuti.",
+          "explanation": "His victories and those of his successors created a much larger territorial state.",
+          "source": {
+            "printedPages": [
+              37
+            ],
+            "pdfPages": [
+              101
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-inca-200",
+          "category": "Governing the Andes",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What system of knotted strings recorded numerical information in the Inca Empire?",
+          "answer": "The quipu.",
+          "explanation": "It supported recordkeeping for activities such as trade and engineering.",
+          "source": {
+            "printedPages": [
+              38
+            ],
+            "pdfPages": [
+              102
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-inca-300",
+          "category": "Governing the Andes",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did mandatory public service help the Inca govern an extensive mountain empire?",
+          "answer": "Labor obligations supplied workers for roads and other projects that supported administration and movement.",
+          "explanation": "The mit'a system connected the extraction of labor with infrastructure needed by the state.",
+          "source": {
+            "printedPages": [
+              37,
+              38
+            ],
+            "pdfPages": [
+              101,
+              102
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-inca-400",
+          "category": "Governing the Andes",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain a political consequence of the belief described here.",
+          "answer": "New rulers had an incentive to acquire additional land because they could not simply inherit their predecessors' property.",
+          "explanation": "Royal ancestor veneration thus provided one motivation for continued imperial expansion.",
+          "source": {
+            "printedPages": [
+              38
+            ],
+            "pdfPages": [
+              102
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Mummified Inca rulers were believed to retain their possessions, servants, and property after death.",
+            "attribution": "Paraphrased from AMSCO, pp. 38."
+          }
+        },
+        {
+          "id": "1.4-inca-500",
+          "category": "Governing the Andes",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Build a causal argument linking Inca infrastructure, environmental adaptation, and central rule.",
+          "answer": "Terraces and water channels supported cultivation, while bridges and roads connected difficult terrain, helping provincial officials and armies govern.",
+          "explanation": "State strength depended on coordinating labor and engineering to overcome environmental constraints, not just winning battles.",
+          "source": {
+            "printedPages": [
+              37,
+              38
+            ],
+            "pdfPages": [
+              101,
+              102
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "name": "Belief & Evidence",
+      "questions": [
+        {
+          "id": "1.4-evidence-100",
+          "category": "Belief & Evidence",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What term describes the belief that natural features or objects can possess supernatural powers?",
+          "answer": "Animism.",
+          "explanation": "Inca sacred objects and features, called huaca, could include mountains, rivers, stones, or built structures.",
+          "source": {
+            "printedPages": [
+              38
+            ],
+            "pdfPages": [
+              102
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-evidence-200",
+          "category": "Belief & Evidence",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What political-religious similarity linked the Aztec emperor and Inca rulers?",
+          "answer": "Both were viewed as representatives of deities.",
+          "explanation": "Sacred authority supported political leadership in both societies, despite differences in administration.",
+          "source": {
+            "printedPages": [
+              36,
+              38
+            ],
+            "pdfPages": [
+              100,
+              102
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-evidence-300",
+          "category": "Belief & Evidence",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How does the appearance of related religious images and monuments in multiple Mesoamerican cultures support an argument for continuity?",
+          "answer": "Shared forms suggest later societies adopted elements of earlier traditions.",
+          "explanation": "AMSCO notes Olmec influences while also acknowledging debate about independent development.",
+          "source": {
+            "printedPages": [
+              39
+            ],
+            "pdfPages": [
+              103
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.4-evidence-400",
+          "category": "Belief & Evidence",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "What caution should a historian apply to the numerical claims described here, and why?",
+          "answer": "Treat the numbers cautiously because conquerors may have exaggerated to justify conquest.",
+          "explanation": "Identifying a source's interests helps assess reliability; it does not require rejecting all of its evidence.",
+          "source": {
+            "printedPages": [
+              37
+            ],
+            "pdfPages": [
+              101
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Many accounts of Aztec sacrifice were written by Spanish invaders, who had an interest in depicting the conquered society as deserving conquest.",
+            "attribution": "Paraphrased from AMSCO, pp. 37."
+          }
+        },
+        {
+          "id": "1.4-evidence-500",
+          "category": "Belief & Evidence",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Compare how Aztec and Inca rulers obtained resources from subjects. Explain a shared purpose and a key difference.",
+          "answer": "Both supported imperial rule through obligations on subjects; the Aztecs emphasized tribute in goods, while the Inca required public labor.",
+          "explanation": "Different administrative arrangements could serve the common purpose of maintaining a large state and its projects.",
+          "source": {
+            "printedPages": [
+              36,
+              37,
+              39
+            ],
+            "pdfPages": [
+              100,
+              101,
+              103
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    }
+  ],
+  "subtitle": "City-states, mountain empires, and engineered landscapes."
+}

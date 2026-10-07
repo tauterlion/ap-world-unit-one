@@ -1,0 +1,8 @@
+[
+  { "id": "1.1", "title": "Developments in East Asia", "enabled": true },
+  { "id": "1.2", "title": "Developments in Dar al-Islam", "enabled": true },
+  { "id": "1.3", "title": "Developments in South and Southeast Asia", "enabled": true },
+  { "id": "1.4", "title": "Developments in the Americas", "enabled": true },
+  { "id": "1.5", "title": "Developments in Africa", "enabled": true },
+  { "id": "1.6", "title": "Developments in Europe", "enabled": true }
+]

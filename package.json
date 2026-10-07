@@ -1,0 +1,14 @@
+{
+  "name": "world-history-study-stage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "build": "node --experimental-vm-modules scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --experimental-vm-modules scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

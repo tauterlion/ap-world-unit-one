@@ -1,0 +1,522 @@
+{
+  "topic": "1.5",
+  "title": "Developments in Africa",
+  "source": "reference/AMSCO AP World History.pdf",
+  "categories": [
+    {
+      "id": "state",
+      "name": "States & Government",
+      "questions": [
+        {
+          "id": "1.5-state-100",
+          "category": "States & Government",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What term describes communities governed through family connections rather than a single centralized ruler?",
+          "answer": "Kin-based networks.",
+          "explanation": "Chiefs mediated disputes and coordinated relations among groups.",
+          "source": {
+            "printedPages": [
+              43
+            ],
+            "pdfPages": [
+              107
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-state-200",
+          "category": "States & Government",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which group of seven loosely connected states developed in the region of present-day Nigeria?",
+          "answer": "The Hausa Kingdoms.",
+          "explanation": "Their cities specialized economically but lacked a central authority over all the states.",
+          "source": {
+            "printedPages": [
+              44
+            ],
+            "pdfPages": [
+              108
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-state-300",
+          "category": "States & Government",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "Why did population growth make small kin-based political systems harder to sustain?",
+          "answer": "Larger populations increased competition and conflict among villages and districts.",
+          "explanation": "These pressures made coordination harder and helped larger kingdoms become more prominent.",
+          "source": {
+            "printedPages": [
+              44
+            ],
+            "pdfPages": [
+              108
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-state-400",
+          "category": "States & Government",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Compare political organization in the Hausa states and Ghana.",
+          "answer": "The Hausa states were loosely linked without a central authority, while Ghana had a centralized king supported by nobles and an army.",
+          "explanation": "Trade-related prosperity could coexist with different levels of political centralization.",
+          "source": {
+            "printedPages": [
+              44,
+              45
+            ],
+            "pdfPages": [
+              108,
+              109
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-state-500",
+          "category": "States & Government",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Evaluate the claim: “African state-building followed a single path toward centralized monarchy.”",
+          "answer": "Kin-based networks, independent Hausa city-states, and centralized kingdoms coexisted, so development followed multiple paths.",
+          "explanation": "The survival of local networks alongside larger states shows diversity rather than a uniform replacement of one political form by another.",
+          "source": {
+            "printedPages": [
+              43,
+              44,
+              45
+            ],
+            "pdfPages": [
+              107,
+              108,
+              109
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Gold & West African Trade",
+      "questions": [
+        {
+          "id": "1.5-west-100",
+          "category": "Gold & West African Trade",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What network linked West African societies to traders across the Sahara?",
+          "answer": "Trans-Saharan trade.",
+          "explanation": "Overland routes enabled exchange even for communities without direct access to the sea.",
+          "source": {
+            "printedPages": [
+              44
+            ],
+            "pdfPages": [
+              108
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-west-200",
+          "category": "Gold & West African Trade",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Name the precious metal Ghana sold and the essential mineral it received from Muslim traders.",
+          "answer": "Gold was sold; salt was received.",
+          "explanation": "Ghana exchanged valuable local resources for goods that connected its economy to wider regional markets.",
+          "source": {
+            "printedPages": [
+              45
+            ],
+            "pdfPages": [
+              109
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-west-300",
+          "category": "Gold & West African Trade",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did Sundiata's religious connections support Mali's growth?",
+          "answer": "His connections with Muslim merchants helped establish trade relationships with North Africa and Arab traders.",
+          "explanation": "Shared faith could facilitate commercial ties that contributed to wealth and state power.",
+          "source": {
+            "printedPages": [
+              46
+            ],
+            "pdfPages": [
+              110
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-west-400",
+          "category": "Gold & West African Trade",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Explain what each of these visual details can support about Mali's connections.",
+          "answer": "Gold suggests royal wealth tied to trade; domed buildings suggest connections with the Islamic world.",
+          "explanation": "A source can offer evidence of both economic resources and cultural relationships, although a representation is not a complete account of society.",
+          "source": {
+            "printedPages": [
+              46,
+              51
+            ],
+            "pdfPages": [
+              110,
+              115
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "A 1375 painting reproduced in AMSCO shows Mansa Musa with a gold coin and crown, alongside buildings with domes associated with Middle Eastern architecture.",
+            "attribution": "Paraphrased from AMSCO, pp. 46,51."
+          }
+        },
+        {
+          "id": "1.5-west-500",
+          "category": "Gold & West African Trade",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Explain one political change and one economic continuity between Ghana and Mali.",
+          "answer": "Ghana weakened and Mali rose in its place, but profitable gold trade with wider networks continued.",
+          "explanation": "The transfer of political prominence did not end the region's reliance on long-distance commerce.",
+          "source": {
+            "printedPages": [
+              45,
+              46
+            ],
+            "pdfPages": [
+              109,
+              110
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "east",
+      "name": "East African Connections",
+      "questions": [
+        {
+          "id": "1.5-east-100",
+          "category": "East African Connections",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What capital is famous for massive defensive stone walls built without mortar?",
+          "answer": "Great Zimbabwe.",
+          "explanation": "Its architecture reflected accumulated wealth and the power needed to organize large building projects.",
+          "source": {
+            "printedPages": [
+              46
+            ],
+            "pdfPages": [
+              110
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-east-200",
+          "category": "East African Connections",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "Which language developed through the blending of Bantu and Arabic among East African traders?",
+          "answer": "Swahili.",
+          "explanation": "Commercial contact helped create a lasting cultural and linguistic form.",
+          "source": {
+            "printedPages": [
+              46
+            ],
+            "pdfPages": [
+              110
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-east-300",
+          "category": "East African Connections",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did an inland kingdom such as Zimbabwe participate in Indian Ocean trade?",
+          "answer": "It traded through coastal city-states such as Kilwa, Mombasa, and Mogadishu.",
+          "explanation": "Access through intermediaries connected inland gold production with distant maritime markets.",
+          "source": {
+            "printedPages": [
+              46
+            ],
+            "pdfPages": [
+              110
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-east-400",
+          "category": "East African Connections",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "What causal explanation links economic activity to abandonment in this account?",
+          "answer": "Overgrazing degraded the surrounding environment, making the capital harder to sustain.",
+          "explanation": "Prosperity could place pressure on local resources and undermine the conditions that supported urban life.",
+          "source": {
+            "printedPages": [
+              46
+            ],
+            "pdfPages": [
+              110
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Zimbabwe combined agriculture, grazing, and gold commerce. AMSCO connects the eventual abandonment of its capital with damage to the surrounding land.",
+            "attribution": "Paraphrased from AMSCO, pp. 46."
+          }
+        },
+        {
+          "id": "1.5-east-500",
+          "category": "East African Connections",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Compare the relationship between gold and trade in Zimbabwe and the West African kingdoms. Include a difference in route.",
+          "answer": "Both drew wealth from gold commerce; West African kingdoms used trans-Saharan routes, while Zimbabwe reached Indian Ocean networks through coastal ports.",
+          "explanation": "Similar resources supported states through different geographic connections and trading intermediaries.",
+          "source": {
+            "printedPages": [
+              45,
+              46
+            ],
+            "pdfPages": [
+              109,
+              110
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "belief",
+      "name": "Belief & Cultural Life",
+      "questions": [
+        {
+          "id": "1.5-belief-100",
+          "category": "Belief & Cultural Life",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "Which major religion shaped Ethiopia's independent religious tradition in this period?",
+          "answer": "Christianity.",
+          "explanation": "Ethiopia developed a distinctive form of Christianity separate from the western Catholic and eastern Orthodox churches.",
+          "source": {
+            "printedPages": [
+              46,
+              47
+            ],
+            "pdfPages": [
+              110,
+              111
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-belief-200",
+          "category": "Belief & Cultural Life",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What were griots, and what did they preserve?",
+          "answer": "Oral storytellers who preserved community histories and family lineages.",
+          "explanation": "Their knowledge passed between generations through performance and memory.",
+          "source": {
+            "printedPages": [
+              49
+            ],
+            "pdfPages": [
+              113
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-belief-300",
+          "category": "Belief & Cultural Life",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did Ethiopian Christianity demonstrate adaptation to local traditions?",
+          "answer": "It incorporated practices such as ancestor veneration and beliefs in spirits.",
+          "explanation": "Separation from other Christian centers allowed a distinctive regional expression of the faith.",
+          "source": {
+            "printedPages": [
+              47
+            ],
+            "pdfPages": [
+              111
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-belief-400",
+          "category": "Belief & Cultural Life",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Does Ibn Battuta's observation suggest complete religious replacement or cultural continuity? Explain.",
+          "answer": "It suggests continuity: older court customs survived after Islam's adoption.",
+          "explanation": "Conversion did not require every local ritual to disappear, and an observer's account can reveal that coexistence.",
+          "source": {
+            "printedPages": [
+              43
+            ],
+            "pdfPages": [
+              107
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "Ibn Battuta describes a poet's ritual gestures before Mali's ruler and reports that the custom had existed before Islam arrived. Paraphrase of the opening account in Topic 1.5.",
+            "attribution": "Paraphrased from AMSCO, pp. 43."
+          }
+        },
+        {
+          "id": "1.5-belief-500",
+          "category": "Belief & Cultural Life",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Explain why treating griots only as entertainers would underestimate their social and political role.",
+          "answer": "They preserved historical knowledge, influenced reputations, and advised kings; griottes also counseled women.",
+          "explanation": "Oral performance functioned as an archive and a source of social authority, not merely recreation.",
+          "source": {
+            "printedPages": [
+              49
+            ],
+            "pdfPages": [
+              113
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "Society & Labor",
+      "questions": [
+        {
+          "id": "1.5-society-100",
+          "category": "Society & Labor",
+          "value": 100,
+          "skill": "Recall",
+          "prompt": "What system organized community work partly according to the ages of members?",
+          "answer": "Age grades, or age sets.",
+          "explanation": "Younger people's labor and elders' advice served different community needs.",
+          "source": {
+            "printedPages": [
+              47
+            ],
+            "pdfPages": [
+              111
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-society-200",
+          "category": "Society & Labor",
+          "value": 200,
+          "skill": "Context",
+          "prompt": "What form of enslavement arose from an obligation to repay money owed?",
+          "answer": "Debt bondage.",
+          "explanation": "It could become long-lasting in practice, including through inherited debt, despite not being permanent in theory.",
+          "source": {
+            "printedPages": [
+              48
+            ],
+            "pdfPages": [
+              112
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-society-300",
+          "category": "Society & Labor",
+          "value": 300,
+          "skill": "Connections",
+          "prompt": "How did demand for labor in the Middle East connect East Africa with Mesopotamia?",
+          "answer": "An Indian Ocean slave trade transported enslaved East Africans to work, including on sugar plantations.",
+          "explanation": "Coerced labor was one part of the region's long-distance economic connections.",
+          "source": {
+            "printedPages": [
+              48
+            ],
+            "pdfPages": [
+              112
+            ]
+          },
+          "stimulus": null
+        },
+        {
+          "id": "1.5-society-400",
+          "category": "Society & Labor",
+          "value": 400,
+          "skill": "Historical reasoning",
+          "prompt": "Why does this evidence complicate a simple “temporary versus permanent” distinction?",
+          "answer": "An obligation considered temporary could persist across generations when children inherited debts.",
+          "explanation": "A legal or theoretical category may not capture the lived duration of coercion.",
+          "source": {
+            "printedPages": [
+              48
+            ],
+            "pdfPages": [
+              112
+            ]
+          },
+          "stimulus": {
+            "type": "text",
+            "label": "Evidence to consider",
+            "content": "In AMSCO's comparison, debt bondage is not permanent in theory, yet repayment may remain impossible and debts can pass to children.",
+            "attribution": "Paraphrased from AMSCO, pp. 48."
+          }
+        },
+        {
+          "id": "1.5-society-500",
+          "category": "Society & Labor",
+          "value": 500,
+          "skill": "Argument & evidence",
+          "prompt": "Explain how the Zanj Rebellion challenges the idea that enslaved laborers had no capacity for collective political action.",
+          "answer": "Enslaved East Africans and Arab workers organized a sustained revolt and held Basra for years.",
+          "explanation": "Their eventual defeat does not erase the scale and duration of their resistance. The example supplies background to labor systems discussed in this topic.",
+          "source": {
+            "printedPages": [
+              48
+            ],
+            "pdfPages": [
+              112
+            ]
+          },
+          "stimulus": null
+        }
+      ]
+    }
+  ],
+  "subtitle": "Kinship, trading kingdoms, and the power of oral history."
+}
